@@ -5,3 +5,8 @@ my name is sharma
 ffsfvsr
 
 sdsfgdhve
+
+i chnage s,txt 
+git status
+
+modified-> git add -> staging -> commit
