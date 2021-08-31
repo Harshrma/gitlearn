@@ -10,4 +10,4 @@ i chnage s,txt
 git status
 
 modified-> git add -> staging -> commit
-priiyanka harsh
+one two three
